@@ -1275,3 +1275,8 @@ footer .credits a {
 .mgt {
   margin-left: 10%;
 }
+ 
+
+.mddd > a span {
+  margin-left: -150%; 
+}
