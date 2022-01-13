@@ -1280,3 +1280,18 @@ footer .credits a {
 .mddd > a span {
   margin-left: -150%; 
 }
+
+#btnres > button {
+  width:30%;
+  height:120%;
+  background-color:#0078ff;
+  border-color: transparent;
+}
+#btnres a {
+  color:#fff;
+
+}
+
+.mdtop {
+  margin-top:3%;
+}
