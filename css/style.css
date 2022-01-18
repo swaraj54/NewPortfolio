@@ -1283,7 +1283,7 @@ footer .credits a {
  
 
 .mddd > a span {
-  margin-left: -150%; 
+  /* margin-left: -150%;  */
 }
 
 #btnres > button {
@@ -1299,4 +1299,13 @@ footer .credits a {
 
 .mdtop {
   margin-top:3%;
+}
+.cent{
+  max-width: 80%;
+  margin: auto;
+}
+
+
+.cent-svg {
+  margin-right: -125%;
 }
